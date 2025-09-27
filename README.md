@@ -7,7 +7,8 @@
 
 A modern, responsive QR Code Generator built with vanilla JavaScript. Generate customizable QR codes instantly from text, URLs, or any input with a clean and intuitive interface.
 
-![QR Code Generator Preview](https://ghaithzoaiter.github.io/Generator-QR/)
+
+[QR Code Generator Preview](https://ghaithzoaiter.github.io/Generator-QR/)
 
 ## ✨ Features
 
